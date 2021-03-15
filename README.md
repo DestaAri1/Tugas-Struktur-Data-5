@@ -1,2 +1,2 @@
-# Tugas-Struktur-Data-5
+# Tugas-StrukturData-5
 Queue
